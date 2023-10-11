@@ -1,0 +1,8 @@
+#Ignore virtual environment files
+myvenv/
+
+#Ignore secret.py
+secret.py
+
+#Ignore
+__pycache__/
