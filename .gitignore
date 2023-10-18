@@ -1,8 +1,11 @@
 #Ignore virtual environment files
-myvenv/
+venv/
 
 #Ignore secret.py
 secret.py
 
-#Ignore
+#Ignore pycache
 __pycache__/
+
+#Ignore ds store
+.DS_Store
